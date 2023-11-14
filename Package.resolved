@@ -66,10 +66,10 @@
     {
       "identity" : "swift-custom-dump",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-custom-dump",
+      "location" : "https://github.com/aaron-foreflight/swift-custom-dump",
       "state" : {
-        "revision" : "4a87bb75be70c983a9548597e8783236feb3401e",
-        "version" : "0.11.1"
+        "branch" : "visionOS-beta6",
+        "revision" : "4bc2c8f55762145ac893faae146794f4a9d5c249"
       }
     },
     {
